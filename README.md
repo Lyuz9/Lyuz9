@@ -1,4 +1,4 @@
-- 👋 Hola, soy @Lyuz9
+- 👋 Hola, soy Gabriel
 - 👀 Estoy interesado en: ... la programación web y el modo en que encaja la conexión cliente-servidor al programar en PHP
 - 🌱 Actualmente estoy aprendiendo: ... conocimientos variados y otros lenguajes de programación.
 - 💞️ Estoy buscando colaborar en: ... alguna consultora de tecnología
