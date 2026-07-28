@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/Lyuz9/Lyuz9/refs/heads/main/imagenes/Cueva_digital2.png" width="30%">
 <h1>
   Hola, soy Gabriel y me apasiona construir cosas con código. 💚
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
